@@ -1,0 +1,8 @@
+[db_login]
+server = "server_hostname"
+database = "database_name"
+user = "username"
+password = "password"
+
+[db_exports]
+tables_and_files = [ [ "table_1", "table_2" ], ["table_1.csv", "table_2.csv"] ] # list of lists. Table names on left, file names on right
