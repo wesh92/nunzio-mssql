@@ -1,0 +1,4 @@
+pandas==1.4.4
+SQLAlchemy==1.4.41
+tomli==2.0.1
+pyodbc==4.0.34
