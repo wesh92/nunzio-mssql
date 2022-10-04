@@ -4,8 +4,7 @@ SQL to CSV Programs
 -----------------
 ## Installation
 1. Install [Python >=3.9](https://www.python.org/downloads/)
-2. Ensure that Pip is installed by running `pip --version` in a terminal.
-2a. If Pip is not installed, install it by running `python -m ensurepip` in a terminal.
+2. Ensure that Pip is installed by running `pip --version` in a terminal. If Pip is not installed, install it by running `python -m ensurepip` in a terminal.
 3. Install the required packages by running `pip install -r requirements.txt` in a terminal in the project directory.
 4. Go to `py-src` folder and ensure the information in db_config.toml is filled out.
 5. Run the program by running `python main.py` in a terminal in the project directory.
